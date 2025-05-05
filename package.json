@@ -23,7 +23,7 @@
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
-    "fluent-ffmpeg": "^2.1.2",  // Ajouté ici
+    "fluent-ffmpeg": "^2.1.2",
     "nodemon": "^2.0.4",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
